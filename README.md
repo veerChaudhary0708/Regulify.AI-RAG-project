@@ -51,7 +51,7 @@ streamlit run app.py
 
 ## Usage
 
-1. Grab a free API key from [Google AI Studio](https://aistudio.google.com).(or use this key for testing purpose only "AIzaSyBxqKdwLkquHQ6_SUO0Ni6VQVRV99ICzuM")
+1. Grab a free API key from [Google AI Studio](https://aistudio.google.com).
 2. Paste it into the secure sidebar panel when the app opens and hit Enter.
 3. Upload a mathematical/normal PDF (e.g., `lintransf.pdf`).
 4. Start querying — for example:
